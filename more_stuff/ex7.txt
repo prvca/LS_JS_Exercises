@@ -1,0 +1,1 @@
+Exception handling is the process of dealing with errors by catching the exception and executing a catch block. It solves the problem of unpredictable bugs entering your program and causing it to come to a halt.

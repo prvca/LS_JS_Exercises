@@ -1,0 +1,3 @@
+returns numeric value 5.
+
+When you use any other operator other than + on two operands in which one is a string and one is not, the non-string operand is coerced to a string. That's why "5" is coerced to the number 5. Then the ++ operator increments 5 to 6, but the return value is still 5 because the ++ operator returns the number's original value.

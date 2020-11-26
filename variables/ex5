@@ -1,0 +1,1 @@
+It logs 'bar' because the statement in the block creates a new variable foo that has its own block scope. Once the block ends, the new foo variable is out of scope. The first foo variable is now in scope again and 'bar' is logged.

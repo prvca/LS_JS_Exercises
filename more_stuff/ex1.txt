@@ -1,0 +1,12 @@
+The code logs:
+[1, 4, 3]
+
+This happens because array1 and array2 are both pointing to the same array, also the same location in memory. So when we reassign the element with the index of 1 in array1, array2 is also affected because the variable points to the same array.
+
+
+/*
+let array1 = [1, 2, 3];
+let array2 = array1;
+array1[1] = 4;
+console.log(array2);
+*/

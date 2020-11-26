@@ -1,0 +1,1 @@
+In the third line, the conditional part of the while loop actually reassigns 1 to the counter variable. It is always accepted as truthy, therefore it keeps iterating infinitely. And then on line five, counter increments to 2 every time so it can never fulfill the condition of line 7.

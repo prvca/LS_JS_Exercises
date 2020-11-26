@@ -1,0 +1,1 @@
+outputs 'Not Empty' because the array is actually truthy even though it has no elements, so the first branch of the if statement is executed.

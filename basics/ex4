@@ -1,0 +1,1 @@
+It logs '510' instead of 15 because of implicit type coercion. Because one of the operands is a string and the other is not, the non-string is coerced into a string, resulting in a string value '510'.

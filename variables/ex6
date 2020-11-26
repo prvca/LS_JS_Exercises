@@ -1,0 +1,1 @@
+No it will not produce an error because the const FOO in the block is not reassigning the first const FOO; it is creating a new const variable within its own block scope.

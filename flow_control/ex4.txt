@@ -1,0 +1,11 @@
+It logs:
+
+Product2
+Product3
+Product not found!
+
+
+
+It logs 'Product2' to the console, because the value passed into the serial variable matches the value of case '113' and therefore executes the statement associated with that clause.
+
+Then because there is no break statement, the execution keeps going and it executes the code from case '142' and the default case.

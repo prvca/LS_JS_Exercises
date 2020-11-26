@@ -1,0 +1,2 @@
+The three log statements greeting Victor will be shown. Then
+there will be an error because a constant cannot be reassigned. Then, instead of greeting Joe, the log statements will be posted greeting Victor again because the constant value remained the same.

@@ -1,0 +1,1 @@
+It doesn't produce an error because the three components are all there: initialization, condition, and increment.

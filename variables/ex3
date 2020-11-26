@@ -1,0 +1,1 @@
+You get an error because the variable declaration of foo is in a block scope and is out of scope outside of the block.

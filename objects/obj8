@@ -1,0 +1,9 @@
+'hi'
+'hello'
+
+The program logs 'hi' because in the bar function, the property 'a' of the
+object, foo, which is passed into the function, is reassigned to the value 'hi'.
+
+It then logs 'hello'. Primitive values such as strings are not mutable, therefore
+the string value passed in as argument2 cannot be reassigned to 'hi'. Instead, the
+variable argument2 is reassigned to 'hi'.

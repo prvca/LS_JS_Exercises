@@ -1,0 +1,6 @@
+First it creates an array of the string, comprising of each word of the string as elements, then it is reversed, then the map() method returns an a new array that contains each length of the elements.
+
+example: doSomething("Hello there! I'm Courtney")
+The returned value would be:
+
+[8, 3, 6, 5]

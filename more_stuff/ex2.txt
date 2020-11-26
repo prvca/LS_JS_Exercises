@@ -1,0 +1,1 @@
+The error was found on line 4 of the program. The variable greeting has not been declared. The error is a ReferenceError. The code is in the hello function.
